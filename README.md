@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development and interested to learn technologies like AI, ML, Cloud Computing.**
 
-- 💬 About Me **I am 2nd Year Student at JSPM's BSIOTR Pune. I am keen to learn about new technologies and being asset to my organization.**
+- 💬 About Me **I am 3rd Year Student at JSPM's BSIOTR Pune. I am keen to learn about new technologies and being asset to my organization.**
 
 - 📫 How to reach me **tejasvmehetre@gmail.com**
 
