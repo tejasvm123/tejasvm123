@@ -1,15 +1,18 @@
 <h1 align="center">👋 Hey there, I'm Tejas Mehetre</h1>
 <h3 align="center">🚀 Competitive Programmer | 🤖 Tech Enthusiast | 📚 Learner</h3>
 <p align="center">
-  <a href="https://twitter.com/tejasmehetre2" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tejas-mehetre-132850206/" target="_blank">
+   <a href="https://www.linkedin.com/in/tejas-mehetre-132850206/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
+  
   <a href="mailto:tejasvmehetre@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
   </a>
+  
+  <a href="https://twitter.com/tejasmehetre2" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+  </a>
+ 
 </p>
 <p align="center">
   💬 About Me: Always seeking new horizons! As a 3rd year student at JSPM's BSIOTR Pune, I'm driven by my passion for programming and my eagerness to take on new challenges.<br>
