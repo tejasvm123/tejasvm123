@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Tejas Mehetre</h1>
-<h3 align="center">🚀 Competitive Programmer | 🤖 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">🚀 Competitive Programmer | 🤖 Tech Enthusiast | 📚 Learner</h3>
 <p align="center">
   <a href="https://twitter.com/tejasmehetre2" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
