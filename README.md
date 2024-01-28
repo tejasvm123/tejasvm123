@@ -15,7 +15,7 @@
  
 </p>
 <p align="center">
-  💬 About Me: Always seeking new horizons! As a 3rd year student at JSPM's BSIOTR Pune, I'm driven by my passion for programming and my eagerness to take on new challenges.<br>
+  💬 About Me: Always seeking new horizons! As a final year student at JSPM's BSIOTR Pune, I'm driven by my passion for programming and my eagerness to take on new challenges.<br>
   🚀I'm constantly exploring emerging technologies like AI, ML, Data Science to stay ahead of the curve. I'm always eager to learn and excited to apply my skills to make a positive impact wherever I go.
 </p>
 <h3 align="center">Languages and Tools:</h3>
